@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        // "outDir": "./dist/",
+        "target": "es6",
+        "module": "es6", //common.js
+        "sourceMap": true,
+        "jsx": "react" // must be react to make tsx compilation work
+    },
+    "exclude": ["node_modules", "assets", "webpack.config.js", "build"]
+    
+}

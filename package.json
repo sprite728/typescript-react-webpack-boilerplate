@@ -1,0 +1,35 @@
+{
+  "name": "typescript-react-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprite728/typescript-react-webpack-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprite728/typescript-react-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sprite728/typescript-react-webpack-boilerplate#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.1.3",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.3.2",
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "@types/react": "^15.0.23",
+    "@types/react-dom": "^15.5.0",
+    "awesome-typescript-loader": "^3.1.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router-dom": "^4.1.1",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.3.2"
+  }
+}
